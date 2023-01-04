@@ -75,13 +75,13 @@ class HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       tittle(
                         child: Text("Linkedin"),
                         onPressed: () {
-                          _launchURL("https://www.linkedin.com/in/RodrigoLara05/");
+                          _launchURL("https://www.linkedin.com/in/justin-arguello-rodr%C3%ADguez-29001420b/");
                         },
                       ),
                       tittle(
                         child: Text("Github"),
                         onPressed: () {
-                          _launchURL("https://www.github.com/RodrigoLara05/");
+                          _launchURL("https://github.com/thecodecr/");
                         },
                       ),
                     ],
