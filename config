@@ -6,7 +6,7 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Rodrigolara05/Flutter-WhatsApp-Clone.git
+	url = https://github.com/thecodecr/-Desarrollo-de-la-Aplicaci-n-de-Whatsaap-Clon-replica-
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
